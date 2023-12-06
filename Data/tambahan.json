@@ -1,0 +1,853 @@
+{
+    "pertanyaan": [
+      { "tag": "proses_praperadilan",
+        "input": [
+            "Bagaimana proses praperadilan dilakukan?"
+        ],
+        "responses": [
+            "Mekanisme praperadilan diatur dalam Pasal 1 butir 10 dan Pasal 11 KUHAP."
+        ]
+      },
+
+      {
+        "tag": "Alasan_Mengajukan_Praperadilan",
+        "input": [
+          "Apa alasan seseorang dapat mengajukan praperadilan?"
+        ],
+        "responses": [
+            "Seseorang dapat mengajukan praperadilan karena merasa hak-haknya telah dilanggar atau akan dilanggar oleh tindakan atau keputusan yang diambil oleh penegak hukum. "
+        ]
+      },
+
+      {
+        "tag": "Pemberlakuan_praperadilan",
+        "input": [
+            "Apakah praperadilan hanya berlaku untuk kasus pidana?" ],
+        "responses": [
+          "Pra-peradilan tidak hanya sebatas Pidana, karena secara hukum ketentuan yang mengatur tentang pra-pradilan menyangkut juga tentang tuntutan ganti kerugian termasuk ganti kerugian akibat adanya “tindakan lain” yang di dalam penjelasan pasal 95 ayat (1) KUHAP ditegaskan kerugian yang timbul akibat tindakan lain yaitu, kerugian yang timbul akibat pemasukan rumah, penggeledahan dan penyitaan yang tidak sah menurut hukum."
+        ]
+      },
+
+      {
+        "tag": "Pemberhentian_Penyidikan",
+        "input": ["Apakah praperadilan dapat menghentikan proses penyidikan?"],
+        "responses": [
+            "Penghentian penyidikan merupakan kewenangan dari penyidik yang diatur dalam Pasal 109 ayat (2) KUHAP."
+        ]
+      },
+
+      {
+        "tag": "Kondisi_Mengajukan_Praperadilan",
+        "input": ["Kapan sebaiknya seseorang mengajukan praperadilan?"],
+        "responses": [
+            "Praperadilan sebaiknya diajukan ketika terjadi :",
+            "Penangkapan atau penahanan yang tidak sah",
+            "Penggeledahan atau penyitaan yang pertentangan dengan ketentuan hukum dan undang-undang",
+            "Kekeliruan mengenai orang yang ditangkap, ditahan atau diperiksa."
+        ]
+      },
+
+      {
+        "tag": "dampak_praperadilan",
+        "input": [
+            "Apa dampak praperadilan terhadap penegakan hukum?"
+        ],
+        "responses": [
+          "Praperadilan mempunyai peranan yang besar dalam rangka penegakan hukum pidana di Indonesia. Dengan adanya praperadilan, memberikan ruang kepada pihak-pihak yang dirugikan dalam proses peradilan pidana di Indonesia untuk menuntut kembali hak-haknya yang dirugikan."
+        ]
+      },
+
+      {
+        "tag": "Pengajuan_berhasil",
+        "input": [
+            "Apa konsekuensi dari pengajuan permohonan praperadilan yang berhasil?"
+        ],
+        "responses": [
+          "Apabila permohonan Praperadilan ini dikabulkan maka pasal-pasal dalam KUHAP yang diuji dalam permohonan ini tidak dapat diterapkan lagi terhadap pemohon sehingga hak konstitusi Pemohon tidak lagi dirugikan."
+        ]
+      },
+
+      {
+        "tag": "Kegunaan_Peradilan",
+        "input": [
+            "Apakah praperadilan dapat digunakan untuk mempercepat proses hukum?"
+        ],
+        "responses": [
+          ""
+        ]
+      },
+
+      {
+        "tag": "Praperadilan_Mempercepat_Hukum",
+        "input": [
+            "Apakah praperadilan dapat digunakan untuk mempercepat proses hukum?"
+        ],
+        "responses": [
+          "Pra peradilan adalah wewenang Pengadilan Negeri untuk memeriksa dan memutus menurut sah atau tidaknya suatu penangkapan dan atau penahanan."
+        ]
+      },
+
+      {
+        "tag": "Praperadilan_HAM",
+        "input": [
+            "Bagaimana praperadilan berkaitan dengan hak asasi manusia?",
+            "Bagaimana praperadilan dapat melindungi hak tersangka atau terdakwa?"
+        ],
+        "responses": [
+          "Dalam konteks praperadilan, proses ini dapat menjadi alat penting untuk memastikan bahwa hak-hak individu tidak dilanggar dalam proses hukum. "
+        ]
+      },
+
+      {
+        "tag": "Keberadaan_praperadilan",
+        "input": [
+            "Apakah praperadilan ada di semua negara?"
+        ],
+        "responses": [
+          "Tidak, praperadilan tergantung struktur dari suatu negara"
+        ]
+      },
+
+      {
+        "tag": "Praperadilan_melindungi_tersangka_terdakwa",
+        "input": [
+            "Bagaimana praperadilan dapat melindungi hak tersangka atau terdakwa?"
+        ],
+        "responses": [
+          "#"
+        ]
+      },
+
+      {
+        "tag": "Hasil_prapreadilan_dibatalkan",
+        "input": [
+            "Apakah hasil praperadilan dapat dibatalkan?"
+        ],
+        "responses": [
+          "#"
+        ]
+      },
+
+      {
+        "tag": "praperadilan_memastikan_keadilan_sistem_hukum",
+        "input": [
+            "Bagaimana praperadilan memastikan keadilan dalam sistem hukum?"
+        ],
+        "responses": [
+          "#"
+        ]
+      },
+
+      {
+        "tag": "hambatan_proses_praperadilan",
+        "input": [
+            "Apa hambatan yang mungkin dihadapi dalam proses praperadilan?"
+        ],
+        "responses": [
+          "#"
+        ]
+      },
+
+      {
+        "tag": "Praperadilan_bukti_kuat",
+        "input": [
+            "Apakah praperadilan memerlukan bukti yang kuat?"
+        ],
+        "responses": [
+          "#"
+        ]
+      },
+
+      {
+        "tag": "proses_peradilan_di_pengadilan",
+        "input": [
+            "Bagaimana proses praperadilan diadili oleh pengadilan?"
+        ],
+        "responses": [
+          "#"
+        ]
+      },
+
+      {
+        "tag": "Praperadilan_diajukan_setelah_persidangan",
+        "input": [
+            "Apakah praperadilan dapat diajukan setelah pengadilan menyimpulkan persidangan?"
+        ],
+        "responses": [
+          "#"
+        ]
+      },
+
+      {
+        "tag": "tuduhan_palsu",
+        "input": [
+            "Apa hubungan antara praperadilan dan pembelaan terhadap tuduhan palsu?"
+        ],
+        "responses": [
+          "#"
+        ]
+      },
+
+      {
+        "tag": "praperadilan_hanya_untuk_kriminal_berat",
+        "input": [
+            "Apakah praperadilan hanya berlaku untuk kasus kriminal berat?"
+        ],
+        "responses": [
+          "#"
+        ]
+      },
+
+      {
+        "tag": "perbedaan_praperadilan_dan_banding",
+        "input": [
+            "Apa perbedaan antara praperadilan dan banding?"
+        ],
+        "responses": [
+          "#"
+        ]
+      },
+
+      {
+        "tag": "praperadilan_memastikan_kepastian_hukum",
+        "input": [
+            "Bagaimana praperadilan memengaruhi kepastian hukum?"
+        ],
+        "responses": [
+          "#"
+        ]
+      },
+
+      {
+        "tag": "melawan_penyalahgunaan_kekuasaan",
+        "input": [
+            "Apakah praperadilan dapat digunakan untuk melawan penyalahgunaan kekuasaan?"
+        ],
+        "responses": [
+          "#"
+        ]
+      },
+
+      {
+        "tag": "praperadilan_diajukan_pidak_tidak_terlibat",
+        "input": [
+            "Apakah praperadilan dapat diajukan oleh pihak yang tidak terlibat langsung?"
+        ],
+        "responses": [
+          "#"
+        ]
+      },
+
+      {
+        "tag": "implikasi_praperadilan_dengan_penyidikan_polisi",
+        "input": [
+            "Apa implikasi praperadilan terhadap penyelidikan polisi?"
+        ],
+        "responses": [
+          "#"
+        ]
+      },
+
+      {
+        "tag": "reputasi_seseorang",
+        "input": [
+            "Bagaimana praperadilan dapat mempengaruhi reputasi seseorang?"
+        ],
+        "responses": [
+          "#"
+        ]
+      },
+
+      {
+        "tag": "biaya_tinggi_mahal",
+        "input": [
+            "Apakah praperadilan memerlukan biaya yang tinggi?"
+        ],
+        "responses": [
+          "#"
+        ]
+      },
+
+      {
+        "tag": "Aturan_praradilan_dalam_uud",
+        "input": [
+            "Bagaimana praperadilan diatur dalam undang-undang?"
+        ],
+        "responses": [
+          "#"
+        ]
+      },
+
+      {
+        "tag": "diajukan_sebelum_dakwaan_resmi",
+        "input": [
+            "Apakah praperadilan dapat diajukan sebelum adanya dakwaan resmi?"
+        ],
+        "responses": [
+          "#"
+        ]
+      },
+
+      {
+        "tag": "mempertimbangkan_kepentingan_masyrakat",
+        "input": [
+            "Bagaimana praperadilan mempertimbangkan kepentingan masyarakat?"
+        ],
+        "responses": [
+          "#"
+        ]
+      },
+
+      {
+        "tag": "langka_konkret_praperadilan",
+        "input": [
+            "Apa langkah-langkah konkret yang dilibatkan dalam praperadilan?"
+        ],
+        "responses": [
+          "#"
+        ]
+      },
+
+      {
+        "tag": "melawan_ketidakadilan_struktural",
+        "input": [
+            "Apakah praperadilan dapat digunakan untuk melawan ketidakadilan struktural?"
+        ],
+        "responses": [
+          "#"
+        ]
+      },
+
+      {
+        "tag": "",
+        "input": [
+            "Bagaimana praperadilan dapat melibatkan saksi dan bukti?"
+        ],
+        "responses": [
+          "#"
+        ]
+      },
+
+      {
+        "tag": "#",
+        "input": [
+            "Apakah praperadilan dapat mengubah jalannya proses hukum?"
+        ],
+        "responses": [
+          "#"
+        ]
+      },
+
+      {
+        "tag": "#",
+        "input": [
+            "Bagaimana praperadilan berkaitan dengan presumpsi tak bersalah?"
+        ],
+        "responses": [
+          "#"
+        ]
+      },
+
+      {
+        "tag": "#",
+        "input": [
+            "Apakah praperadilan memiliki batas waktu untuk diajukan?"
+        ],
+        "responses": [
+          "#"
+        ]
+      },
+
+      {
+        "tag": "#",
+        "input": [
+            "Apa dampak praperadilan terhadap kecepatan penyelesaian kasus?"
+        ],
+        "responses": [
+          "#"
+        ]
+      },
+
+      {
+        "tag": "#",
+        "input": [
+            "Bagaimana praperadilan melibatkan proses mediasi atau negosiasi?"
+        ],
+        "responses": [
+          "#"
+        ]
+      },
+
+      {
+        "tag": "#",
+        "input": [
+            "Apakah praperadilan memungkinkan revisi ulang kasus yang sudah selesai?"
+        ],
+        "responses": [
+          "#"
+        ]
+      },
+
+      {
+        "tag": "#",
+        "input": [
+            "Bagaimana praperadilan meminimalkan risiko kesalahan hukum?"
+        ],
+        "responses": [
+          "#"
+        ]
+      },
+
+      {
+        "tag": "#",
+        "input": [
+            "Apa peran advokat dalam proses praperadilan?"
+        ],
+        "responses": [
+          "#"
+        ]
+      },
+
+      {
+        "tag": "#",
+        "input": [
+            "Bagaimana praperadilan dapat memengaruhi keputusan pengadilan?"
+        ],
+        "responses": [
+          "#"
+        ]
+      },
+
+      {
+        "tag": "#",
+        "input": [
+            "Apakah praperadilan mencakup perlindungan terhadap penyiksaan atau perlakuan tidak manusiawi?"
+        ],
+        "responses": [
+          "#"
+        ]
+      },
+
+      {
+        "tag": "#",
+        "input": [
+            "Bagaimana praperadilan dapat membantu mereka yang tidak mampu secara finansial?"
+        ],
+        "responses": [
+          "#"
+        ]
+      },
+
+      {
+        "tag": "#",
+        "input": [
+            "Apakah praperadilan dapat digunakan untuk melawan penyalahgunaan wewenang kepolisian?"
+        ],
+        "responses": [
+          "#"
+        ]
+      },
+
+      {
+        "tag": "#",
+        "input": [
+            "praperadilan dapat menciptakan keseimbangan antara kebutuhan penegakan hukum dan hak individu?"
+        ],
+        "responses": [
+          "#"
+        ]
+      },
+
+      {
+        "tag": "#",
+        "input": [
+            "Apa hubungan antara praperadilan dan transparansi sistem hukum?"
+        ],
+        "responses": [
+          "#"
+        ]
+      },
+
+      {
+        "tag": "#",
+        "input": [
+            "Bagaimana praperadilan dapat melibatkan testimoni ahli?"
+        ],
+        "responses": [
+          "#"
+        ]
+      },
+
+      {
+        "tag": "#",
+        "input": [
+            "Apakah praperadilan berlaku untuk kasus pelanggaran administratif?"
+        ],
+        "responses": [
+          "#"
+        ]
+      },
+
+      {
+        "tag": "#",
+        "input": [
+            "Bagaimana praperadilan dapat menanggapi pembuktian yang diperoleh secara ilegal?"
+        ],
+        "responses": [
+          "#"
+        ]
+      },
+
+      {
+        "tag": "#",
+        "input": [
+            "Apakah praperadilan mempertimbangkan opini publik terhadap tersangka?"
+        ],
+        "responses": [
+          "#"
+        ]
+      },
+
+      {
+        "tag": "#",
+        "input": [
+            "Bagaimana praperadilan dapat mengatasi kasus-kasus di mana bukti terbatas?"
+        ],
+        "responses": [
+          "#"
+        ]
+      },
+
+      {
+        "tag": "#",
+        "input": [
+            "Apakah praperadilan dapat diajukan oleh keluarga atau pihak terkait?"
+        ],
+        "responses": [
+          "#"
+        ]
+      },
+
+      {
+        "tag": "#",
+        "input": [
+            "Bagaimana praperadilan mempertimbangkan aspek keamanan nasional?"
+        ],
+        "responses": [
+          "#"
+        ]
+      },
+
+      {
+        "tag": "#",
+        "input": [
+            "Apakah praperadilan berlaku untuk kasus pelanggaran hak cipta?"
+        ],
+        "responses": [
+          "#"
+        ]
+      },
+
+      {
+        "tag": "#",
+        "input": [
+            "Bagaimana praperadilan dapat melibatkan mekanisme alternatif penyelesaian sengketa?"
+        ],
+        "responses": [
+          "#"
+        ]
+      },
+
+      {
+        "tag": "#",
+        "input": [
+            "Apa dampak praperadilan terhadap kepercayaan masyarakat terhadap sistem hukum?"
+        ],
+        "responses": [
+          "#"
+        ]
+      },
+
+      {
+        "tag": "#",
+        "input": [
+            "Bagaimana praperadilan mempertimbangkan kepentingan anak-anak atau kelompok rentan?"
+        ],
+        "responses": [
+          "#"
+        ]
+      },
+
+      {
+        "tag": "#",
+        "input": [
+            "Apakah praperadilan dapat mengubah kualifikasi atau pengangkatan hakim?"
+        ],
+        "responses": [
+          "#"
+        ]
+      },
+
+      {
+        "tag": "#",
+        "input": [
+            "Bagaimana praperadilan dapat melibatkan pemantauan independen atau komisi hak asasi manusia?"
+        ],
+        "responses": [
+          "#"
+        ]
+      },
+
+      {
+        "tag": "#",
+        "input": [
+            "#"
+        ],
+        "responses": [
+          "#"
+        ]
+      },
+
+      {
+        "tag": "#",
+        "input": [
+            "#"
+        ],
+        "responses": [
+          "#"
+        ]
+      },
+
+      {
+        "tag": "#",
+        "input": [
+            "#"
+        ],
+        "responses": [
+          "#"
+        ]
+      },
+
+      {
+        "tag": "#",
+        "input": [
+            "#"
+        ],
+        "responses": [
+          "#"
+        ]
+      },
+
+      {
+        "tag": "#",
+        "input": [
+            "#"
+        ],
+        "responses": [
+          "#"
+        ]
+      },
+
+      {
+        "tag": "#",
+        "input": [
+            "#"
+        ],
+        "responses": [
+          "#"
+        ]
+      },
+
+      {
+        "tag": "#",
+        "input": [
+            "#"
+        ],
+        "responses": [
+          "#"
+        ]
+      },
+
+      {
+        "tag": "#",
+        "input": [
+            "#"
+        ],
+        "responses": [
+          "#"
+        ]
+      },
+
+      {
+        "tag": "#",
+        "input": [
+            "#"
+        ],
+        "responses": [
+          "#"
+        ]
+      },
+
+      {
+        "tag": "#",
+        "input": [
+            "#"
+        ],
+        "responses": [
+          "#"
+        ]
+      },
+
+      {
+        "tag": "#",
+        "input": [
+            "#"
+        ],
+        "responses": [
+          "#"
+        ]
+      },
+
+      {
+        "tag": "#",
+        "input": [
+            "#"
+        ],
+        "responses": [
+          "#"
+        ]
+      },
+
+      {
+        "tag": "#",
+        "input": [
+            "#"
+        ],
+        "responses": [
+          "#"
+        ]
+      },
+
+      {
+        "tag": "#",
+        "input": [
+            "#"
+        ],
+        "responses": [
+          "#"
+        ]
+      },
+
+      {
+        "tag": "#",
+        "input": [
+            "#"
+        ],
+        "responses": [
+          "#"
+        ]
+      },
+
+      {
+        "tag": "#",
+        "input": [
+            "#"
+        ],
+        "responses": [
+          "#"
+        ]
+      },
+
+      {
+        "tag": "#",
+        "input": [
+            "#"
+        ],
+        "responses": [
+          "#"
+        ]
+      },
+
+      {
+        "tag": "#",
+        "input": [
+            "#"
+        ],
+        "responses": [
+          "#"
+        ]
+      },
+
+      {
+        "tag": "#",
+        "input": [
+            "#"
+        ],
+        "responses": [
+          "#"
+        ]
+      },
+
+      {
+        "tag": "#",
+        "input": [
+            "#"
+        ],
+        "responses": [
+          "#"
+        ]
+      },
+
+      {
+        "tag": "#",
+        "input": [
+            "#"
+        ],
+        "responses": [
+          "#"
+        ]
+      },
+
+      {
+        "tag": "#",
+        "input": [
+            "#"
+        ],
+        "responses": [
+          "#"
+        ]
+      },
+
+      {
+        "tag": "#",
+        "input": [
+            "#"
+        ],
+        "responses": [
+          "#"
+        ]
+      },
+
+      {
+        "tag": "#",
+        "input": [
+            "#"
+        ],
+        "responses": [
+          "#"
+        ]
+      },
+
+      {
+        "tag": "#",
+        "input": [
+            "Bagaimana praperadilan dapat melibatkan saksi dan bukti?"
+        ],
+        "responses": [
+          "#"
+        ]
+      }
+
+    ]
+  }
+  

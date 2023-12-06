@@ -1,0 +1,95 @@
+{
+    "intents": [
+      { "tag": "definisi_praperadilan",
+        "input": [
+          "Apa itu Praperadilan?",
+          "Definisi Praperadilan"
+        ],
+        "responses": [
+          "Praperadilan adalah proses hukum yang memberikan wewenang kepada pengadilan untuk memeriksa keabsahan suatu penangkapan, penahanan, penghentian penyidikan, atau penghentian penuntutan sebelum kasus itu diajukan ke pengadilan pidana.",
+          "Tujuan Praperadilan adalah melindungi hak asasi manusia dan memastikan bahwa tindakan penegak hukum sesuai dengan ketentuan hukum yang berlaku."
+        ]
+      },
+      {
+        "tag": "Siapa_Berhak_Praperadilan",
+        "input": [
+          "Siapa yang berhak mengajukan Praperadilan?",
+          "Proses pengajuan Praperadilan"
+        ],
+        "responses": [
+          "Siapa pun yang merasa hak-haknya dilanggar, termasuk tersangka, terdakwa, atau pihak yang dirugikan, dapat mengajukan Praperadilan.",
+          "Proses pengajuan Praperadilan dimulai dengan mengajukan permohonan ke pengadilan yang berwenang sesuai dengan peraturan perundang-undangan yang berlaku."
+        ]
+      },
+      {
+        "tag": "wewenang_praperadilan",
+        "input": [
+            "Wewenang pengadilan negeri dalam Praperadilan",
+            "Bagian Kesatu Praperadilan",
+            "Pasal 77 KUHAP"
+        ],
+        "responses": [
+          "Pengadilan negeri berwenang untuk memeriksa dan memutus tentang:",
+          "- Sah atau tidaknya penangkapan, penahanan, penghentian penyidikan, atau penghentian penuntutan.",
+          "- Ganti kerugian dan atau rehabilitasi bagi seorang yang perkara pidananya dihentikan pada tingkat penyidikan atau penuntutan."
+        ]
+      },
+      {
+        "tag": "pelaksanaan_wewenang_pasal_78",
+        "input": ["Pelaksanaan wewenang pengadilan negeri"],
+        "responses": [
+          "(1) Praperadilan dipimpin oleh hakim tunggal yang ditunjuk oleh ketua pengadilan negeri dan dibantu oleh seorang panitera.",
+          "(2) Yang melaksanakan wewenang pengadilan negeri sebagaimana dimaksud dalam Pasal 77 adalah praperadilan."
+        ]
+      },
+      {
+        "tag": "Permintaan_Pemeriksaan_Pasal_79",
+        "input": ["Permintaan pemeriksaan menurut Pasal 79"],
+        "responses": [
+          "Permintaan pemeriksaan tentang sah atau tidaknya suatu penangkapan atau penahanan diajukan oleh tersangka, keluarga, atau kuasanya kepada ketua pengadilan negeri dengan menyebutkan alasannya."
+        ]
+      },
+      {
+        "tag": "Permintaan_Pemeriksaan_Pasal_80",
+        "input": ["Permintaan pemeriksaan menurut Pasal 80"],
+        "responses": [
+          "Permintaan untuk memeriksa sah atau tidaknya suatu penghentian penyidikan atau penuntutan dapat diajukan oleh penyidik, penuntut umum, atau pihak ketiga yang berkepentingan kepada ketua pengadilan negeri dengan menyebutkan alasannya."
+        ]
+      },
+      {
+        "tag": "Permintaan_Pemeriksaan_Pasal_81",
+        "input": ["Permintaan pemeriksaan menurut Pasal 81"],
+        "responses": [
+          "Permintaan ganti kerugian dan atau rehabilitasi akibat tidak sahnya penangkapan atau penahanan, atau akibat sahnya penghentian penyidikan atau penuntutan diajukan oleh tersangka atau pihak ketiga yang berkepentingan kepada ketua pengadilan negeri dengan menyebut alasannya."
+        ]
+      },
+      {
+        "tag": "Proses_Pemeriksaan_Pasal_82",
+        "input": ["Proses pemeriksaan praperadilan menurut Pasal 82"],
+        "responses": [
+          "(1) Acara pemeriksaan praperadilan untuk hal sebagaimana dimaksud dalam Pasal 79, Pasal 80 dan Pasal 81 ditentukan sebagai berikut:",
+          "a. Dalam waktu tiga hari setelah diterimanya permintaan, hakim yang ditunjuk menetapkan hari sidang;",
+          "b. Dalam memeriksa dan memutus tentang sah atau tidaknya penangkapan atau penahanan, sah atau tidaknya penghentian penyidikan atau penuntutan; permintaan ganti kerugian dan atau rehabilitasi akibat tidak sahnya penangkapan atau penahanan, akibat sahnya penghentian penyidikan atau penuntutan dan ada benda yang disita yang tidak termasuk alat pembuktian, hakim mendengar keterangan baik dan tersangka atau pemohon maupun dan pejabat yang berwenang;",
+          "c. Pemeriksaan tersebut dilakukan cara cepat dan selambat-lambatnya tujuh hari hakim harus sudah menjatuhkan putusannya;",
+          "d. Dalam hal suatu perkara sudah mulai diperiksa oleh pengadilan negeri sedangkan pemeriksaan mengenai permintaan kepada praperadilan belum selesai, maka permintaan tersebut gugur;",
+          "e. Putusan praperadilan pada tingkat penyidikan tidak menutup kemungkinan untuk mengadakan pemeriksaan praperadilan lagi pada tingkat pemeriksaan oleh penuntut umum, jika untuk itu diajukan permintaan baru.",
+          "(2) Putusan hakim dalam acara pemeriksaan praperadilan mengenai hal sebagaimana dimaksud dalam Pasal 79, Pasal 80 dan Pasal 81, harus memuat dengan jelas dasar dan alasannya.",
+          "(3) Isi putusan selain memuat ketentuan sebagaimana dimaksud dalam ayat (2) juga memuat hal sebagai berikut",
+          "a. Dalam hal putusan menetapkan bahwa sesuatu penangkapan atau penahanan tidak sah; maka penyidik atau jaksa penuntut umum pada tingkat pemeriksaan masing-masing harus segera membebaskan tersangka;",
+          "b. Dalam hal putusan menetapkan bahwa sesuatu penghentian penyidikan atau penuntutan tidak sah, penyidikan atau penuntutan terhadap tersangka wajib dilanjutkan;",
+          "c. Dalam hal putusan menetapkan bahwa suatu penangkapan atau penahanan tidak sah, maka dalam putusan dicantumkan jumlah besarnya ganti kerugian dan rehabilitasi yang diberikan, sedangkan dalam hal suatu penghentian penyidikan atau penuntutan adalah sah dan tersangkanya tidak ditahan, maka dalam putusan dicantumkan rehabilitasinya;",
+          "d. Dalam hal putusan menetapkan bahwa benda yang disita ada yang tidak termasuk alat pembuktian, maka dalam putusan dicantumkan bahwa benda tersebut harus segera dikembalikan kepada tersangka atau dan siapa benda itu disita.",
+          "(4) Ganti kerugian dapat diminta, yang meliputi hal sebagaimana dimaksud dalam Pasal 77 dan Pasal 95."
+        ]
+      },
+      {
+        "tag": "Banding_Putusan_Pasal_83",
+        "input": ["Banding terhadap putusan praperadilan menurut Pasal 83"],
+        "responses": [
+          "(1) Terhadap putusan praperadilan dalam hal sebagaimana dimaksud dalam Pasal 79, Pasal 80, dan Pasal 81 tidak dapat dimintakan banding.",
+          "(2) Dikecualikan dari ketentuan ayat (1) adalah putusan praperadilan yang menetapkan tidak sahnya penghentian penyidikan atau penuntutan yang untuk itu dapat dimintakan putusan akhir ke pengadilan tinggi dalam daerah hukum yang bersangkutan."
+        ]
+      }
+    ]
+  }
+  
